@@ -1,0 +1,1 @@
+insert into  users( username, password) values ('Александр1', '1')
